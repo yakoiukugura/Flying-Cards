@@ -1,0 +1,10 @@
+C:\Users\TheBoss\OneDrive\Desktop\Atestate\Flying Cards\Flying Cards\bin\Debug\Flying Cards.exe.config
+C:\Users\TheBoss\OneDrive\Desktop\Atestate\Flying Cards\Flying Cards\bin\Debug\Flying Cards.exe
+C:\Users\TheBoss\OneDrive\Desktop\Atestate\Flying Cards\Flying Cards\bin\Debug\Flying Cards.pdb
+C:\Users\TheBoss\OneDrive\Desktop\Atestate\Flying Cards\Flying Cards\obj\Debug\Flying Cards.csproj.AssemblyReference.cache
+C:\Users\TheBoss\OneDrive\Desktop\Atestate\Flying Cards\Flying Cards\obj\Debug\Flying_Cards.Form1.resources
+C:\Users\TheBoss\OneDrive\Desktop\Atestate\Flying Cards\Flying Cards\obj\Debug\Flying_Cards.Properties.Resources.resources
+C:\Users\TheBoss\OneDrive\Desktop\Atestate\Flying Cards\Flying Cards\obj\Debug\Flying Cards.csproj.GenerateResource.cache
+C:\Users\TheBoss\OneDrive\Desktop\Atestate\Flying Cards\Flying Cards\obj\Debug\Flying Cards.csproj.CoreCompileInputs.cache
+C:\Users\TheBoss\OneDrive\Desktop\Atestate\Flying Cards\Flying Cards\obj\Debug\Flying Cards.exe
+C:\Users\TheBoss\OneDrive\Desktop\Atestate\Flying Cards\Flying Cards\obj\Debug\Flying Cards.pdb

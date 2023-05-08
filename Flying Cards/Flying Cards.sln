@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33214.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flying Cards", "Flying Cards\Flying Cards.csproj", "{26E19B97-5973-4976-AF78-075B2E7D5F2D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26E19B97-5973-4976-AF78-075B2E7D5F2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26E19B97-5973-4976-AF78-075B2E7D5F2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26E19B97-5973-4976-AF78-075B2E7D5F2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26E19B97-5973-4976-AF78-075B2E7D5F2D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C84D13B8-399A-47B2-8A6B-C5E25D04BD0E}
+	EndGlobalSection
+EndGlobal
